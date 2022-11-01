@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<?php
+include("header.php");
+?>
+	<div class="container">
+	  <div class="row">
+		    <div class="col-sm-8 col-sm-offset-2 bg-info" style="box-shadow:2px 2px 2px 2px gray;">
+		      <img src="images/0.png" class="img img-responsive"/>
+	      </div>
+	  </div>
+			<div class="news"><marquee>Welcome to E-Voting System. New polls are up and running, But they will not be up forever! Register now to vote for your favourite candidates. </marquee></div>
+	</div>
+  </div>
+	<br>
+	<div class="container">
+	   <div class="row">
+	       <div class="col-sm-6">
+		      <h4 class="text text-center text-info alert bg-primary">Cast your vote from anywhere in the world with just a few clicks</h4>
+				  <ul>
+					 <li>Exercise your voting rights quickly and easily at home - or from the other side of the world </li>
+					 <li>Cast your ballot with any device with access to the internet from anywhere in the world </li>
+					 <li>The secrecy of your ballot is maintained under the high security standards adhered to by Polyas online voting software </li>
+					 <li>Your vote remains anonymous as our system's architecture strictly separates your personal data from the electronic ballot </li>
+				  </ul>
+		   </div>
+
+		   <div class="col-sm-6">
+	         <img src="images/1.jpg" class="img img-responsive img-thumbnail"/>
+		   </div>
+	   </div>
+    </div>
+<?php
+include("footer.php");
+?>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+</body>
+</html>

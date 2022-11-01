@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Online Voting System </title>
+<link rel="stylesheet"  href="css/bootstrap.css" />
+<link rel="stylesheet"  href="mystyle.css" />
+<link rel="stylesheet"  href="css/fonts.css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+				<a href="index.php" class="navbar-brand">Online Voting System</a>
+				 </div>
+			     <ul class="nav navbar-nav">
+			      <li><a href="index.php">Home</a></li>
+			      <li><a href="reg.php">Register</a></li>
+			      <li><a href="login.php">Log In</a></li>
+			      <li><a href="about_us.php">About Us</a></li>
+						<li><a href="admin.php">Admin Panel</a></li>
+			     </ul>
+
+	        </div>
+	    </nav>
+	</div>
+<br>
+<br><br>
+</html>

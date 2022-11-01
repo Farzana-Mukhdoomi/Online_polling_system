@@ -1,0 +1,10 @@
+Create a database "voting_db"
+
+import voting_db.sql file from phpmyadmin
+
+
+
+ADMIN LOGIN DETAILS
+URL: http://localhost/voting/admin.php
+USER NAME: admin@icsc.com
+PASSWORD: _admin
